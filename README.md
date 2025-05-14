@@ -22,7 +22,16 @@ Fold Projection Theory (FPT) describes reality as the rhythmic collapse of poten
 - Reconstructs CMB patterns using rhythmic modulation, not geometry
 - Explains spin behavior as rhythmic periodicity
 - Suggests reality is a harmonic projection space, not spacetime
-- Predicts new detection frameworks based on rhythm and coherence
+- Predicts new detection frameworks based on rhythm and 	•	Eliminates need for a spacetime manifold by using fold-phase cycles as primary structure
+- Interprets mass-energy equivalence as projection density, not intrinsic property
+- Redefines decoherence as loss of fold-phase alignment, not environmental entanglement
+- Predicts observable fluctuations from local fold-density shifts (beyond cosmic variance)
+- Allows entanglement to be modeled as phase-locked rhythmic collapse, not nonlocal transfer
+- Provides alternative interpretation of dark matter as rhythmically desynchronized mass
+- Links time perception to internal Fold-Time phase velocity, not entropy gradients
+- Explains tunneling as rhythmic phase skipping, not barrier penetration
+- Suggests inflation was a rapid rhythm cascade, not exponential geometric expansion
+- Enables simulation of emergent geometry via symbolic projection rules, not metric embedding
 
 ## 📄 License and Attribution
 
