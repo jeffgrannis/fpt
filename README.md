@@ -27,8 +27,8 @@ Projects the cyclical Fold-Time S¹ into a symbolic label space ℒ; not a spati
 Emergence power at label λ depends on base potential ρ₀ and modulation coherence Cₘ.
 
 4. Spin from Symmetry under Fold Return
-Spin =
 
+  Spin =
   4π return → Spin-½
   
   2π return → Spin-1
