@@ -28,8 +28,11 @@ Emergence power at label λ depends on base potential ρ₀ and modulation coher
 
 4. Spin from Symmetry under Fold Return
 Spin =
+
   4π return → Spin-½
+  
   2π return → Spin-1
+  
   π return  → Spin-2
 
 Spin types emerge from the symmetry of recurrence in Fold-Time cycles.
