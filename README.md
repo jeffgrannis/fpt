@@ -11,11 +11,34 @@ Fold Projection Theory (FPT) describes reality as the rhythmic collapse of poten
 
 ## 📐 Core Principles
 
-- **\(\Psi_0(F_t) = \sin F_t\)** — The primitive rhythm
-- **\(\Pi_s : S^1 \rightarrow \mathcal{L}\)** — Projection into a symbolic label space
-- **\(\Xi_p(\lambda) = \rho_0(\lambda) \cdot C_m(\lambda)\)** — Power density of emergent structure
-- **Spin = symmetry under fold return**: \(4\pi \rightarrow \) spin-½, \(2\pi \rightarrow \) spin-1, \(\pi \rightarrow \) spin-2
-- **Observers emerge** where \(\Xi_p > \Xi_{th}\) and \(\frac{dC_m}{dF_t} \approx 0\)
+1. Primitive Rhythm (Undivided Substrate)
+Ψ₀(Fₜ) = sin(Fₜ)
+
+A pure oscillation in Fold-Time Fₜ, the foundational rhythm of all emergence.
+
+2. Projection Operator (Symbolic Mapping)
+Πₛ : S¹ → ℒ
+
+Projects the cyclical Fold-Time S¹ into a symbolic label space ℒ; not a spatial coordinate, but an emergent structural label (e.g., spin, phase-type).
+
+3. Power Density of Emergent Structure
+Ξₚ(λ) = ρ₀(λ) · Cₘ(λ)
+
+Emergence power at label λ depends on base potential ρ₀ and modulation coherence Cₘ.
+
+4. Spin from Symmetry under Fold Return
+Spin =
+  4π return → Spin-½
+  2π return → Spin-1
+  π return  → Spin-2
+
+Spin types emerge from the symmetry of recurrence in Fold-Time cycles.
+
+5. Observer Condition
+Ξₚ > Ξ_th and dCₘ/dFₜ ≈ 0
+
+Conscious observers arise where structural power exceeds threshold and modulation is locally stable in Fold-Time.
+
 
 ## 🔍 Implications
 
